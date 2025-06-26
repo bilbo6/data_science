@@ -1,0 +1,200 @@
+2025-06-26 16:41:36,875 - INFO - Customer ID 1, Order: 84: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,875 - INFO - Customer ID 1, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 2, Order: 3: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 2, Order 5: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 3, Order: 7: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 4, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 6, Order: 10: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 7, Order: 10: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 8, Order 15: invalid item - could not convert string to float: 'None'. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 11: missing 'orders' key. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 13, Order: 23: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 14, Order: 25: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 14, Order: 27: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 15, Order: 27: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 16, Order 30: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 16, Order 31: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 17, Order 33: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 18, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 18, Order 37: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 18, Order 37: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 19: missing 'orders' key. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 20, Order: 38: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 20, Order: 38: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,876 - INFO - Customer ID 21, Order: 42: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 22, Order: 44: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 24, Order: 48: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 26, Order: 50: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 27, Order: 53: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 28, Order: 55: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 30, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 30, Order 61: invalid item - could not convert string to float: 'None'. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 30, Order 61: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 31: missing 'orders' key. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 33, Order: 63: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 35, Order 66: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 36, Order 70: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 36, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 36, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 37, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 37, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 38, Order 77: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 38, Order: 77: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 38, Order: 77: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 40, Order: 80: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 40, Order: 80: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 40, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 42, Order: ORD84: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 44, Order: 87: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 44, Order: 87: missing ID or empty items. Skipped.
+2025-06-26 16:41:36,877 - INFO - Customer ID 46, Order: 91: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,784 - INFO - Customer ID 1, Order: 84: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,784 - INFO - Customer ID 1, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,784 - INFO - Customer ID 2, Order: 3: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,784 - INFO - Customer ID 2, Order 5: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:46:08,784 - INFO - Customer ID 3, Order: 7: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 4, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 6, Order: 10: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 7, Order: 10: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 8, Order 15: invalid item - could not convert string to float: 'None'. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 11: missing 'orders' key. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 13, Order: 23: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 14, Order: 25: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 14, Order: 27: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 15, Order: 27: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 16, Order 30: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 16, Order 31: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 17, Order 33: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 18, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 18, Order 37: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 18, Order 37: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 19: missing 'orders' key. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 20, Order: 38: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 20, Order: 38: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 21, Order: 42: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 22, Order: 44: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 24, Order: 48: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 26, Order: 50: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 27, Order: 53: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 28, Order: 55: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 30, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 30, Order 61: invalid item - could not convert string to float: 'None'. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 30, Order 61: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 31: missing 'orders' key. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 33, Order: 63: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 35, Order 66: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 36, Order 70: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 36, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 36, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 37, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 37, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,785 - INFO - Customer ID 38, Order 77: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:46:08,786 - INFO - Customer ID 38, Order: 77: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,786 - INFO - Customer ID 38, Order: 77: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,786 - INFO - Customer ID 40, Order: 80: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,786 - INFO - Customer ID 40, Order: 80: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,786 - INFO - Customer ID 40, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,786 - INFO - Customer ID 42, Order: ORD84: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,786 - INFO - Customer ID 44, Order: 87: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,786 - INFO - Customer ID 44, Order: 87: missing ID or empty items. Skipped.
+2025-06-26 16:46:08,786 - INFO - Customer ID 46, Order: 91: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 1, Order: 84: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 1, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 2, Order: 3: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 2, Order 5: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 3, Order: 7: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 4, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 6, Order: 10: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 7, Order: 10: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 8, Order 15: invalid item - could not convert string to float: 'None'. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 11: missing 'orders' key. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 13, Order: 23: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 14, Order: 25: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 14, Order: 27: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,134 - INFO - Customer ID 15, Order: 27: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 16, Order 30: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 16, Order 31: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 17, Order 33: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 18, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 18, Order 37: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 18, Order 37: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 19: missing 'orders' key. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 20, Order: 38: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 20, Order: 38: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 21, Order: 42: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 22, Order: 44: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 24, Order: 48: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 26, Order: 50: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 27, Order: 53: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 28, Order: 55: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 30, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 30, Order 61: invalid item - could not convert string to float: 'None'. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 30, Order 61: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 31: missing 'orders' key. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 33, Order: 63: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 35, Order 66: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 36, Order 70: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 36, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 36, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 37, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 37, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,135 - INFO - Customer ID 38, Order 77: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:46:16,136 - INFO - Customer ID 38, Order: 77: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,136 - INFO - Customer ID 38, Order: 77: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,136 - INFO - Customer ID 40, Order: 80: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,136 - INFO - Customer ID 40, Order: 80: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,136 - INFO - Customer ID 40, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,136 - INFO - Customer ID 42, Order: ORD84: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,136 - INFO - Customer ID 44, Order: 87: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,136 - INFO - Customer ID 44, Order: 87: missing ID or empty items. Skipped.
+2025-06-26 16:46:16,136 - INFO - Customer ID 46, Order: 91: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,421 - INFO - Customer ID 1, Order: 84: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,421 - INFO - Customer ID 1, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,421 - INFO - Customer ID 2, Order: 3: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,421 - INFO - Customer ID 2, Order 5: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:47:47,421 - INFO - Customer ID 3, Order: 7: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,421 - INFO - Customer ID 4, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 6, Order: 10: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 7, Order: 10: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 8, Order 15: invalid item - could not convert string to float: 'None'. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 11: missing 'orders' key. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 13, Order: 23: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 14, Order: 25: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 14, Order: 27: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 15, Order: 27: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 16, Order 30: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 16, Order 31: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 17, Order 33: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 18, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 18, Order 37: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 18, Order 37: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 19: missing 'orders' key. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 20, Order: 38: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 20, Order: 38: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 21, Order: 42: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 22, Order: 44: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 24, Order: 48: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 26, Order: 50: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 27, Order: 53: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 28, Order: 55: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 30, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 30, Order 61: invalid item - could not convert string to float: 'None'. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 30, Order 61: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 31: missing 'orders' key. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 33, Order: 63: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 35, Order 66: invalid item - could not convert string to float: 'INVALID'. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 36, Order 70: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:47:47,422 - INFO - Customer ID 36, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,423 - INFO - Customer ID 36, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,423 - INFO - Customer ID 37, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,423 - INFO - Customer ID 37, Order: 70: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,423 - INFO - Customer ID 38, Order 77: invalid item - invalid literal for int() with base 10: 'FREE'. Skipped.
+2025-06-26 16:47:47,423 - INFO - Customer ID 38, Order: 77: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,423 - INFO - Customer ID 38, Order: 77: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,423 - INFO - Customer ID 40, Order: 80: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,423 - INFO - Customer ID 40, Order: 80: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,423 - INFO - Customer ID 40, Order: None: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,423 - INFO - Customer ID 42, Order: ORD84: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,423 - INFO - Customer ID 44, Order: 87: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,423 - INFO - Customer ID 44, Order: 87: missing ID or empty items. Skipped.
+2025-06-26 16:47:47,423 - INFO - Customer ID 46, Order: 91: missing ID or empty items. Skipped.
